@@ -230,4 +230,4 @@ def printUpdate(name, address, hours):
     print("Suntopia: " + str(suntopiaBankCounter))
     print("Google Requests: " + str(googleRequestCounter))
 
-createBankLocations()
+# createBankLocations()
