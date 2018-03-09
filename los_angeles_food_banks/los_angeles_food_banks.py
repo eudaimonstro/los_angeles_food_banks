@@ -26,11 +26,11 @@ totalBankCounter = 0
 def parseLAZipPdf():
     print("Entering parseLAZipPdf")
 
-    bashOne = "pdftotext -eol unix zip_codes.pdf -"
+    bashOne = "pdftotext -eol unix data/zip_codes.pdf -"
     bashTwo = "egrep ^[0-9]{5}"
     p1 = subprocess.Popen(bashOne.split(), stdout=subprocess.PIPE);
     p2 = subprocess.Popen(bashTwo.split(), stdin=p1.stdout, stdout=subprocess.PIPE);
-    with open('zip_codes.txt', 'w') as f:
+    with open('data/zip_codes.txt', 'w') as f:
         f.write(p2.communicate()[0].decode("utf-8"))
 
     print("Leaving parseLAZipPdf")
@@ -38,7 +38,7 @@ def parseLAZipPdf():
 def getZipList():
     print("Entering getZipList")
 
-    with open('zip_codes.txt') as f:
+    with open('data/zip_codes.txt') as f:
         zips = f.readlines()
     
     print("Leaving getZipList")
@@ -52,8 +52,8 @@ def getZipLatLng():
     global totalBankCounter
     global googleRequestCounter
 
-    if os.path.exists('locations.json') and time.time() - os.path.getmtime('locations.json') < 86400:
-        with open('locations.json') as f:
+    if os.path.exists('data/locations.json') and time.time() - os.path.getmtime('data/locations.json') < 86400:
+        with open('data/locations.json') as f:
             return json.load(f)
 
     results = []
@@ -62,7 +62,7 @@ def getZipLatLng():
         response = requests.get(f"https://maps.googleapis.com/maps/api/geocode/json?address={str(code)}&key={GOOGLE_API_KEY}")
         results.append(response.json())
 
-    with open('locations.json', 'w') as f:
+    with open('data/locations.json', 'w') as f:
         json.dump(results, f)
 
     print("Leaving getZipLatLng")
@@ -118,7 +118,7 @@ def getBanksLAFood():
 
                 printUpdate(bank['store'], address, bank['fax'])
 
-    with open('banksLAFood.json', 'w') as f:
+    with open('data/banksLAFood.json', 'w') as f:
         json.dump(bankResults, f)
 
     return bankResults
@@ -186,7 +186,7 @@ def getBanksSuntopia():
 
                 printUpdate(title, addressNumber + addressDetails, hours)
 
-    with open('banksSuntopia.json', 'w') as f:
+    with open('data/banksSuntopia.json', 'w') as f:
         json.dump(bankResults, f)
 
     return bankResults
@@ -199,14 +199,14 @@ def createBankLocations():
     banksLAFood = getBanksLAFood()
     suntopiaBanks = getBanksSuntopia()
 
-    # with open('banksLAFood.json') as f:
+    # with open('data/banksLAFood.json') as f:
     #   banksLAFood =json.load(f)
-    # with open('banksSuntopia.json') as f:
+    # with open('data/banksSuntopia.json') as f:
     #   suntopiaBanks =json.load(f)
 
     banks = banksLAFood['results'] + suntopiaBanks['results']
     
-    with open('banks.json', 'w') as f:
+    with open('data/banks.json', 'w') as f:
         json.dump(banks, f)
 
     sendBankJSON()
@@ -214,7 +214,7 @@ def createBankLocations():
     print("Leaving createBankLocations")
 
 def sendBankJSON():
-    bash = "scp banks.json droplet:/var/www/html"
+    bash = "scp data/banks.json droplet:/var/www/html"
     subprocess.run(bash.split())
 
 def printUpdate(name, address, hours):
