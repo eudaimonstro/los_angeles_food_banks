@@ -83,6 +83,7 @@ install: clean ## install the package to the active Python's site-packages
 
 init:
 	pip install pipenv
+	pipenv install
 	pipenv install --dev
 
 test: ## run tests quickly with the default Python
