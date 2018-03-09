@@ -52,12 +52,6 @@ clean-test: ## remove test and coverage artifacts
 lint: ## check style with flake8
 	flake8 los_angeles_food_banks tests
 
-test: ## run tests quickly with the default Python
-	python setup.py test
-
-test-all: ## run tests on every Python version with tox
-	tox
-
 coverage: ## check code coverage quickly with the default Python
 	coverage run --source los_angeles_food_banks setup.py test
 	coverage report -m
@@ -86,3 +80,13 @@ dist: clean ## builds source and wheel package
 
 install: clean ## install the package to the active Python's site-packages
 	python setup.py install
+
+init:
+	pip install pipenv
+	pipenv install --dev
+
+test: ## run tests quickly with the default Python
+	pipenv run setup.py test
+
+test-all: ## run tests on every Python version with tox
+	pipenv run tox
