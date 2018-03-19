@@ -1,0 +1,502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+
+	<title>186 Food Pantries In The Los Angeles, CA Area | Suntopia.org</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="Los Angeles,California,CA, assistance, food, need, help, local, resources, charities, needy" />
+
+	<meta name="description" content="186  food pantries in the Los Angeles, CA area that give free food to those in need.  Includes program requirements and contact information for each food pantry." />	
+	<link rel="stylesheet" href="http://www.suntopia.org/css/reset.css" type="text/css" media="all">
+
+	<link rel="stylesheet" href="http://www.suntopia.org/css/layout.css" type="text/css" media="all">
+
+	<link rel="stylesheet" href="http://www.suntopia.org/css/style.css" type="text/css" media="all">
+
+	<script type="text/javascript" src="http://www.suntopia.org/js/maxheight.js"></script>
+
+	<script type="text/javascript" src="http://www.suntopia.org/js/jquery-1.4.2.min.js" ></script>
+
+	<script type="text/javascript" src="http://www.suntopia.org/js/script.js"></script>
+
+	<!--[if lt IE 7]>
+
+		<link rel="stylesheet" href="http://www.suntopia.org/css/ie6.css" type="text/css" media="screen">
+
+		<script type="text/javascript" src="http://www.suntopia.org/js/ie_png.js"></script>
+
+		<script type="text/javascript">
+
+		ie_png.fix('.png');
+
+		</script>
+
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+
+		<script type="text/javascript" src="http://www.suntopia.org/js/html5.js"></script>
+
+	<![endif]-->
+
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35365277-1']);
+  _gaq.push(['_setDomainName', 'suntopia.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+
+<body id="page1" onLoad="new ElementMaxHeight();">
+
+<div class="tail-bottom">
+
+	<div id="main">
+
+<!-- header -->
+
+		<header>
+
+
+			<div class="top-nav">
+
+			<table cellpadding="5px">
+
+				<tr>
+
+					<td width="100px" align="center">
+
+					<a href="http://www.suntopia.org">Suntopia.org</a>
+
+					</td>
+
+
+					<td width="100px" align="center">
+
+					<a href="http://request.suntopia.org">Request Help</a>
+
+					</td>
+
+					<td width="100px" align="center">
+
+					<a href="http://www.suntopia.org/about.php">About Us</a>
+
+					</td>
+
+					<td width="500px" align="left">
+
+						
+
+					</td>
+
+					<td width="100px" align="right">
+
+					<div class="fb-like" data-href="http://www.suntopia.org" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-action="recommend" data-font="trebuchet ms"></div>
+
+					</td>
+
+				</tr>
+
+			</table>
+
+			</div>
+	
+			<div class="nav-box">
+
+				<nav>
+
+					<ul>
+
+				<li><a href="http://www.suntopia.org/los_angeles/ca/">Main<br />Page</a></li>
+
+				
+				<li class='current'><a href="http://www.suntopia.org/los_angeles/ca/food_pantries.php">Food<br />Pantries</a></li>
+
+			
+
+			
+				<li><a href="http://www.suntopia.org/los_angeles/ca/utility_and_rental_assistance.php">Rental<br />Assistance</a></li>
+
+			
+			
+				<li><a href="http://www.suntopia.org/los_angeles/ca/homeless_shelters.php">Homeless<br />Shelters</a></li>
+
+			
+				
+				<li><a href="http://www.suntopia.org/los_angeles/ca/payday_loans.php">Emergency<br />Loans</a></li>
+
+			
+			
+				<li><a href="http://www.suntopia.org/los_angeles/ca/clothing.php">Clothing<br />Donations</a></li>
+
+			
+			
+				<li><a href="http://www.suntopia.org/los_angeles/ca/child_care.php">Child<br />Care</a></li>
+
+			
+
+
+					</ul>
+
+				</nav>
+			</div>
+
+			<img src="http://www.suntopia.org/images/sunlogo.png" style="float:left">
+
+			<form action="" id="search-form">
+
+				<fieldset>
+				
+<a href="http://www.mb103.com/lnk.asp?o=12437&c=119456&a=119636&l=12892">
+<IMG SRC="http://www.suntopia.org/images/bzoppmb728x60.gif" width=728 height=90 border=0>
+</a>
+				</fieldset>
+
+			</form>
+
+		</header>
+
+		<div class="wrapper indent">
+
+<!-- content -->
+
+			<section id="content">
+
+				<div class="inside">
+
+					<table>
+
+						<tr>
+
+							<td>
+
+							<img src="http://www.suntopia.org/images/food_pantries.png" width="100px"  style="padding-right:15px">
+
+							</td>
+
+							<td>
+
+							<h1><span>Los Angeles, CA</span><br />Food Pantries</h1>
+
+							<p>Food pantries give free food to local residents.  There are 186 food pantries in the Los Angeles area.</p>
+
+							</td>
+	
+						</tr>
+
+					</table>
+
+				</div>
+
+				<div class="wrapper">
+
+					<article>
+
+<br><div id='info2'><table width='100%'><tr><td align='left'><h2>Food Pantry Lax Area</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>6 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>355 E. Beach Ave.</td></tr><tr><td colspan='2' align='left'>Inglewood, CA 90302</td></tr><tr><td colspan='2' align='left'>(310) 677-5597</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food for people.
+
+The agency is only able to assist the first 100 people who line up. The program provides a two-day supply of groceries which contains, canned food and packaged dried goods. Powdered milk is occasionally available. The amount of food varies with family size but is enough to last approximately two days. People may be assisted Tuesday or Friday.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Tuesday and Friday, 10:00am to 12:00 noon.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />Services are restricted to El Segundo, Hawthorne, Inglewood, Lawndale and Los Angeles zip codes 90001, 90002, 90003, 90006, 90007, 90008, 90011, 90013, 90016, 90018, 90019, 90037, 90043, 90044, 90045, 90047, 90056, 90059, 90061, 90062, 90245, 90247, 90249, 90250, 90260, 90293, 90301, 90302, 90303, 90304 and 90305 residents.</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />Picture ID for the head of household, ID for all family members including children and proof of residence are required.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>That's why many fail-because they don't get started-they don't go. They don't overcome inertia. They don't begin.<br>-- W Clement Stone</blockquote><br><br /><br /><br><div id='info'><table width='100%'><tr><td align='left'><h2>Our Lady Queen Of Angels Catholic Church</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>7 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>535 N. Main St.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90012</td></tr><tr><td colspan='2' align='left'>(213) 629-3101</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />This program provides emergency food for anyone in Los Angeles 90012. The program serves families and seniors, ages 55 and older. Services include groceries and a meal. People who live outside of 90012 are given emergency groceries on a one-time only basis and referred to a resource in their area. Services are targeted, but not restricted, to the Spanish-speaking community.
+The program provides occasional and ongoing emergency food assistance for people who have cooking facilities. It provides a week's supply of groceries that includes staples such as rice, beans, butter, flour, powdered milk and bread. Canned and packaged dried goods, infant formula and baby food are occasionally available. The amount of groceries given varies with family size. The frequency people are served is determined on a case-by-case basis and may range from weekly to monthly.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Intake and distribution hours for ongoing emergency food assistance are Friday, 8:00am to 11:00am.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />To apply for ongoing emergency food assistance, specialists call to verify availability of food and arrange for same day assistance during the intake hours. Program staff interview applicants to assess their need and determine how often they can receive assistance.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />ZIP 90012 (90012)</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Clothing</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />Picture ID for the head of household and proof of residence, such as a utility or rent receipt, are required.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>If 899 matches go out, the 900th is enough to set the world aflame. (paraphrased from imperfect memory of poster) http://www.vahini.org/downloads.<br>-- Sai Baba</blockquote><br><br /><br /><br><div id='info2'><table width='100%'><tr><td align='left'><h2>Cathedral Of Our Lady Of The Angels Charities Program</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>7 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>555 W. Temple St.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90012</td></tr><tr><td colspan='2' align='left'>(213) 680-5231</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food services for families with children in the greater City of Los Angeles area. Services include occasional and ongoing emergency food assistance. The service area is the general Cathedral boundaries, which include L A City zip codes: 90005, 90006, 90007, 90012, 90013, 90014, 90015, 90017, 90021, 90026, 90029, 90031, 90032, 90033, 90042, 90057, 90065 and 90071. Geographic restrictions apply.
+The amount of food varies with the size of the family and level of income. The program will determine on a case by case basis how often a family is eligible to receive groceries. The center provides daily sack lunches five days per week to surrounding community providers.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Monday, Wednesday, Friday, 8:30am to 12:00 noon.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />An appointment is not required.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />90005, 90006, 90007, 90012, 90013, 90014, 90015, 90017, 90021, 90026, 90029, 90031, 90032, 90033, 90042, 90057, 90065 and 90071</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Utility Assistance</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />First time applicants are required to bring ID for all adult family members; birth certificates for children 18 years and younger; proof of residence, including a rental contract or lease, a current rent receipt and a utility bill; and proof of income. A current rent receipt from an applicable zip code to be presented each time the family comes for assistance.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>Your worth consists in what you are and not in what you have.<br>-- Thomas Alva Edison</blockquote><br><br /><br /><br><div id='info'><table width='100%'><tr><td align='left'><h2>Salvation Army Corps Community Center - Inglewood</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>7 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>324 E. Queen St.</td></tr><tr><td colspan='2' align='left'>Inglewood, CA 90301</td></tr><tr><td colspan='2' align='left'>(310) 677-3375</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The agency provides emergency food for people in the Inglewood area. Services include occasional emergency food and a sack lunch program offered daily. Occasional food include canned and dried goods. Emergency food assistance is available once every 30 days. The sack lunch program is intended for local people in need, including homeless individuals. There are no geographic restrictions.
+As a support service, the agency also provides access to a donated clothes closet program. The service is dependent on donations.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Monday through Friday, 1:00pm to 3:00pm.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Walk in for emergency food. 
+
+Walk in for sack lunch. ID or registration is not required.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />El Segundo (ES)
+Inglewood (IN)
+Lennox (INL)
+ZIP 90045 (90045)
+ZIP 90230 (90230)
+ZIP 90233 (90233)
+ZIP 90250 (90250)</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Clothing</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />ID is required.
+
+Walk in for sack lunch. ID or registration is not required.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>Character may be manifested in the great moments, but it is made in the small ones.<br>-- Les Brown</blockquote><br><br /><br /><br><div id='info2'><table width='100%'><tr><td align='left'><h2>Each One Teach One Inc            </h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>8 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>Tom Bradley Youth &amp; Family Center                </td></tr><tr><td colspan='2' align='left'>Los Angeles, CA  90019</td></tr><tr><td colspan='2' align='left'>(323) 692-0113</td></tr><tr><td colspan='2' align='left'><h3><a style='text-decoration:underline' href='http://www.each1-teach1.org' target='_blank'>Visit Website</a></h3></td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />Each One - Teach One, Inc. founded in May 2002 grew out of the need to provide food to the growing numbers of low income families in the Los Angeles County. Also to educate them on Nutritional benefits of making healthy choices in food preparation.<br><br> They distribute food to the the poor and needy also to families infected or affected with HIV/AIDS and provide Nutrition Education through classes and literature.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>Education's purpose is to replace an empty mind with an open one.<br>-- Malcolm Forbes</blockquote><br><br /><br /><br><div id='info'><table width='100%'><tr><td align='left'><h2>Epiphany Episcopal Church</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>8 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>2808 Altura St.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90031</td></tr><tr><td colspan='2' align='left'>(323) 227-9931</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food to residents of Los Angeles County, including people who are homeless or undocumented. People may apply for ongoing assistance. Service is provided on a first-come, first-served basis. People line up for a ticket at intake hours for the bags of groceries at distribution time. Two bags of food is provided. Emergency food consists of a bag of canned goods and a bag of fresh vegetables. Diapers are available on a limited basis depending on donations. A nurse is available for general health information for participants on Fridays, 8:00am to 5:00pm. There are no geographic restrictions.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Tickets are distributed during intake hours. Intake hours are second and fourth Friday of the month at 10:00am and 1:00pm. Distribution is the second and fourth Friday of the month at 3:00pm to 4:00pm.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Walk in during intake and distribution hours.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />Countywide - All Zips</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Clothing</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>Handle them carefully, for words have more power than atom bombs.<br>-- Pearl Strachan Hurd</blockquote><br><br /><br /><br><div id='info2'><table width='100%'><tr><td align='left'><h2>Catholic Charities Of Los Angeles - St. Mary's Center</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>9 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>4665 Willow Brook Ave.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90029</td></tr><tr><td colspan='2' align='left'>(323) 662-4392</td></tr><tr><td colspan='2' align='left'>(323) 662-4391</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The agency provides emergency food services for families with children living in the Hollywood/Downtown and Central areas of Los Angeles. Services include government surplus food distribution sites, occasional emergency food assistance, and soup kitchens. Services are restricted to the agency service area: 90004, 90005, 90006, 90007, 90012, 90014, 90015, 90017, 90020, 90026, 90027, 90028, 90029, 90031, 90036, 90039, 90040, 90041, 90042, 90046, 90048, 90063, 90065, 90069, 90071.
+Services include a sack lunch program for the homeless. Single adults may be served if no other resources are available. The occasional emergency food assistance program provides a bag of groceries that contain canned foods and USDA food. The amount varies with family size.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Monday, Wednesday through Friday, 10:00am to 12:00pm; 1:00pm to 3:00pm.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Call to arrange an appointment and to verify availability.  Families may receive a bag of groceries once per month per family.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />90004, 90005, 90006, 90007, 90012, 90014, 90015, 90017, 90020, 90026, 90027, 90028, 90029, 90031, 90036, 90039, 90040, 90041, 90042, 90046, 90048, 90063, 90065, 90069, 90071</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Clothing
+Rent Payment Assistance
+Homeless Motel Vouchers</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />Picture ID is required for all family members, proof of residence and income are required. People who receive CalWorks or GR must provide letters or notice of action print out, and the name and phone number of their eligibility worker.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>I've discovered that numerous peak performers use the skill of mental rehearsal of visualization. They mentally run through important events before they happen.<br>-- Charles A. Garfield</blockquote><br><br /><br /><br><div id='info'><table width='100%'><tr><td align='left'><h2>Sova Community Food And Resource Program</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>9 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>1140 N. La Brea Ave.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90038</td></tr><tr><td colspan='2' align='left'>(818) 988-7682</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food assistance for people with low income, who live in or near West Hollywood, West Los Angeles, and in the San Fernando Valley. Services include formula/baby food, occasional emergency food assistance, and ongoing emergency food assistance. The agency serves anyone, including people who are undocumented, homeless or who receive public assistance. Services are targeted, but not restricted to West Hollywood, West Los Angeles, and San Fernando Valley residents. There are no geographic restrictions.
+Emergency food includes a four to five day supply of canned and packaged food, bread, produce, and often, meat and dairy. Kosher, vegetarian, low salt and low sugar foods are available for those who request them. Formula and baby food are sometimes available.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Monday, Tuesday, Wednesday, and Friday, 10:00am to 1:30pm; second and fourth Sunday, 9:00am to 12:00 noon. First time clients must be at the food pantry half an hour before opening.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Low income or anyone in need of assistance.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />Countywide - All Zips</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Secondary Services Include Case Management, Counseling, And Information And Referral To Additional Social Services.</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />First time applicants should arrive half an hour before the pantry opens. Bring an official picture ID for all adult family members; birth certificates are required for children.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>You can have anything you want-if you want it badly enough. You can be anything you want to be, have anything you desire, accomplish anything you set out to accomplish-if you will hold to that desire with singleness of purpose.<br>-- Robert Collier</blockquote><br><br /><br /><br><div id='info2'><table width='100%'><tr><td align='left'><h2>Joy Community Outreach To End Homelessness</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>9 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>5730 W. Manchester Ave.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90045</td></tr><tr><td colspan='2' align='left'>(323) 939-5808</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food for anyone in Los Angeles County. Services include bag of groceries and a weekly meal. Infant formula, baby food and diapers are occassionally available, depending on donations. Services are targeted, but not restricted, to people who are homeless, low-income families with children and older adults. There are no geographic restrictions.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Wednesday, 1:30pm to 4:00pm; fourth Saturday of the month, 9:00am to 2:00pm; every Sunday, 1:30pm to 4:00pm.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Walk in for emergency food service. ID or registration is not required to receive groceries from the agency.
+
+Walk in for the meal. ID or registration is not required for any of the meals served.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />Countywide - All Zips</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Clothing</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>As much as we thirst for approval we dread condemnation.<br>-- Hans Selye</blockquote><br><br /><br /><br><div id='info'><table width='100%'><tr><td align='left'><h2>Sova Food Pantry And Resource Center - West</h2></td><td nowrap='nowrap' valign='bottom' align='right'><h3>10 Miles Away</h3></td></tr><tr><td colspan='2' align='left'>8846 W. Pico Blvd.</td></tr><tr><td colspan='2' align='left'>Los Angeles, CA 90035</td></tr><tr><td colspan='2' align='left'>(818) 988-7682</td></tr><tr><td colspan='2' align='left'><br /><b>Services:  </b><br />The program provides emergency food assistance for people with low income, who live in or near West Hollywood, West Los Angeles, and in the San Fernando Valley. Services include formula/baby food, occasional emergency food assistance, and ongoing emergency food assistance. The agency serves anyone, including people who are undocumented, homeless or who receive public assistance. Services are targeted, but not restricted to West Hollywood, West Los Angeles, and San Fernando Valley residents. There are no geographic restrictions.
+Emergency food includes a four to five day supply of canned and packaged food, bread, produce, and often, meat and dairy. Kosher, vegetarian, low salt and low sugar foods are available for those who request them. Formula and baby food are sometimes available.</td></tr><tr><td colspan='2' align='left'><br /><b>Hours:  </b><br />Monday, Wednesday, and Friday, 10:00am to 1:30pm; third Sunday, 9:00am to 12:00 noon. First time clients must be at the food pantry half an hour before opening.</td></tr><tr><td colspan='2' align='left'><br /><b>Eligibility:  </b><br />Low income  and anyone in need of assistance.</td></tr><tr><td colspan='2' align='left'><br /><b>Area Served:  </b><br />Countywide - All Zips</td></tr><tr><td colspan='2' align='left'><br /><b>Additional Services:  </b><br />Secondary Services Include Case Management, Counseling, And Information And Referral To Additional Social Services.</td></tr><tr><td colspan='2' align='left'><br /><b>Documents To Bring:  </b><br />First time applicants should arrive half an hour before the pantry opens. Bring an official picture ID for all adult family members; birth certificates are required for children.</td></tr><tr><td colspan='2' align='center'><br></td></tr></table></div><br><br />
+
+<blockquote>Always listen to experts. They'll tell you what can't be done and why. Then do it.<br>-- Robert Heinlein</blockquote><br><br /><br /><br>
+<div id='info2'><div class="pagination"><a href="food_pantries.php?page=1">Previous <<</a><a href="food_pantries.php?page=1">1</a><span class="current">2</span><a href="food_pantries.php?page=3">3</a><a href="food_pantries.php?page=4">4</a><a href="food_pantries.php?page=5">5</a><a href="food_pantries.php?page=6">6</a><a href="food_pantries.php?page=7">7</a><a href="food_pantries.php?page=8">8</a><a href="food_pantries.php?page=9">9</a>...<a href="food_pantries.php?page=18">18</a><a href="food_pantries.php?page=19">19</a><a href="food_pantries.php?page=3">>> Next</a></div></div>
+
+					</article>
+
+				</div>
+
+
+			</section>
+
+<!-- aside -->
+
+			<aside>
+
+				<div class="inside">
+
+
+					<table cellpadding="10">
+
+						<tr>
+
+
+<a href="http://www.mb102.com/lnk.asp?o=11182&c=112251&a=119636&l=11240">
+<IMG SRC="http://www.mb102.com/getimage.asp?a=119636&m=4350&o=11182&i=112251.dat" width=300 height=250 border=0>
+</a>
+
+</td>
+						</tr>
+
+						<tr>
+
+							<td align='center'><br><br><br><br>
+
+
+<a href="http://www.mb103.com/lnk.asp?o=8108&c=89428&a=119636" target="_blank">
+<IMG SRC="http://www.mb103.com/getimage.asp?a=119636&m=1897&o=8108&i=89428.dat" width=250 height=250 border=0>
+</a>
+</a>								</td>
+						</tr>
+
+						<tr>
+
+							<td align='center'><br><br><br><br>
+<a href="http://www.mb103.com/lnk.asp?o=7983&c=86552&a=119636&l=6695">
+<IMG SRC="http://www.mb103.com/getimage.asp?a=119636&m=3359&o=7983&i=86552.dat" width=160 height=600 border=0>
+</a>
+								</td>
+						</tr>
+
+
+</table>
+
+
+	<br /><br /><br />				
+
+<div id="info">
+
+				<table cellspacing="15px">
+
+					<tr>
+
+
+						<td align="center" style="padding:5px">
+
+
+							<h3>Locate Services<br />In Another Area </h3>
+
+						</td>
+
+					</tr>
+
+						<td align="center" style="padding:5px">
+
+
+							<b>Enter a zip code:</b>
+
+						<br />
+
+					<tr>
+
+						<td align="center" style="padding:5px">
+
+							<form name="zipsubmit" action="zipgo.php" method="post">
+
+								<input type="text" name="zip" size="10">
+
+								<input type="hidden" name="refer" value="/los_angeles/ca/food_pantries.php?page=2">
+
+						</td>
+
+					</tr>
+
+						<td align="center" style="padding:5px">
+
+								<input type="submit" value="   Find Services  ">
+
+							</form>
+
+
+						</td>
+
+
+
+
+					</tr>
+
+				</table>
+
+</div>	
+	<br /><br /><br />	
+
+	<h3>Requests For Help</h3><a href='http://request.suntopia.org/request_list.php'>view all</a><br />
+				<p id="info2">
+
+<img src='http://www.suntopia.org/images/default_profile.jpg' style='margin: 0 auto;display: block;padding:15px' width='150'>
+<a href="http://request.suntopia.org/help_request.php?rid=1266"><b>Rosagutierrez</b></a>
+
+					<br><b>Los Angeles, CA:  </b>  2 miles away
+
+					<br><b>Posted: </b>March 20, 2018
+					<br>The reason we are in need we only make it to pay rent and bills. The money would be used to buy xmas gifts for the kids and put a smile this holiday season. I will look for work as soon as all this ho...<br><a href="http://request.suntopia.org/help_request.php?rid=1266"><b>View Request</b></a></p>
+				<br/>
+
+
+
+				<p id="info2">
+
+<img src='http://www.suntopia.org/images/default_profile.jpg' style='margin: 0 auto;display: block;padding:15px' width='150'>
+<a href="http://request.suntopia.org/help_request.php?rid=1225"><b>VALERO12</b></a>
+
+					<br><b>Los Angeles, CA:  </b>  4 miles away
+
+					<br><b>Posted: </b>March 20, 2018
+					<br>my gas is was disconecte  and my kids and I we been taking bath with cool water and my electricity is going to be disconecte if I don't pay my bill my next week please help I now there is somebody can...<br><a href="http://request.suntopia.org/help_request.php?rid=1225"><b>View Request</b></a></p>
+				<br/>
+
+
+
+				<p id="info2">
+
+<img src='http://www.suntopia.org/images/default_profile.jpg' style='margin: 0 auto;display: block;padding:15px' width='150'>
+<a href="http://request.suntopia.org/help_request.php?rid=1204"><b>natada75</b></a>
+
+					<br><b>Los Angeles, CA:  </b>  4 miles away
+
+					<br><b>Posted: </b>March 20, 2018
+					<br>I am requesting $425 to make up the difference of my $1600 monthly rent. (I only have $1175). This is my first time reaching out for assistance.God Bless you for even reading this....<br><a href="http://request.suntopia.org/help_request.php?rid=1204"><b>View Request</b></a></p>
+				<br/>
+
+
+
+				<p id="info2">
+
+<img src='http://www.suntopia.org/images/default_profile.jpg' style='margin: 0 auto;display: block;padding:15px' width='150'>
+<a href="http://request.suntopia.org/help_request.php?rid=789"><b>maricarmen1</b></a>
+
+					<br><b>Lynwood, CA:  </b>  5 miles away
+
+					<br><b>Posted: </b>March 20, 2018
+					<br>I NEED food to eat, i dont want money, i need food. I need a food card of about 100-200$ per month to get by, i am trying to get my g.e.d. and spend entire days in school hungry because  i cannot affo...<br><a href="http://request.suntopia.org/help_request.php?rid=789"><b>View Request</b></a></p>
+				<br/>
+
+
+
+				<p id="info2">
+
+<img src='http://www.suntopia.org/images/default_profile.jpg' style='margin: 0 auto;display: block;padding:15px' width='150'>
+<a href="http://request.suntopia.org/help_request.php?rid=597"><b>stevenson</b></a>
+
+					<br><b>Los Angeles, CA:  </b>  5 miles away
+
+					<br><b>Posted: </b>March 20, 2018
+					<br>I'm a single mother who lost her job then my health failed and haven't been able to find another job. Any money donated will be used for me and my son to find permanent housing. Up until now I've been...<br><a href="http://request.suntopia.org/help_request.php?rid=597"><b>View Request</b></a></p>
+				<br/>
+
+
+
+				<div id="info2"> <table cellspacing="5px"> <tr> <td valign="top"> <img src="http://www.suntopia.org/images/info_icon4.png"> </td><td><b>You can also use our website to request help from anonymous donors who browse our site.  We'll give you a free page to explain your situation with words, photos and videos.  We'll also give you a donate button linked to your own PayPal account.</b></td></tr>
+
+					<tr><td colspan="2"><a href="http://request.suntopia.org"><b>Post your story and get help</b></a></td></tr></table></div>
+				</div>
+
+			</aside>
+
+		</div>
+
+<!-- footer -->
+
+
+		<div id="footer">
+
+
+<div id="info" align="center">
+<br><table width="90%">
+	<tr>
+		<td colspan="6" align="center">
+			<h3>Looking For Services In A City Near Los Angeles, CA?</h3>
+		</td>
+	</tr>
+	</tr>
+
+
+<td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/huntington_park/ca/'><b>Huntington Park, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/south_gate/ca/'><b>South Gate, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/bell_gardens/ca/'><b>Bell Gardens, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/maywood/ca/'><b>Maywood, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/lynwood/ca/'><b>Lynwood, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/bell/ca/'><b>Bell, CA</b></a></td></tr><tr><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/compton/ca/'><b>Compton, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/gardena/ca/'><b>Gardena, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/inglewood/ca/'><b>Inglewood, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/hawthorne/ca/'><b>Hawthorne, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/downey/ca/'><b>Downey, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/paramount/ca/'><b>Paramount, CA</b></a></td></tr><tr><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/montebello/ca/'><b>Montebello, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/lawndale/ca/'><b>Lawndale, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/culver_city/ca/'><b>Culver City, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/monterey_park/ca/'><b>Monterey Park, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/bellflower/ca/'><b>Bellflower, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/pico_rivera/ca/'><b>Pico Rivera, CA</b></a></td></tr><tr><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/santa_fe_springs/ca/'><b>Santa Fe Springs, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/el_segundo/ca/'><b>El Segundo, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/manhattan_beach/ca/'><b>Manhattan Beach, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/carson/ca/'><b>Carson, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/norwalk/ca/'><b>Norwalk, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/alhambra/ca/'><b>Alhambra, CA</b></a></td></tr><tr><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/lakewood/ca/'><b>Lakewood, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/torrance/ca/'><b>Torrance, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/beverly_hills/ca/'><b>Beverly Hills, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/playa_del_rey/ca/'><b>Playa Del Rey, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/south_pasadena/ca/'><b>South Pasadena, CA</b></a></td><td nowrap='nowrap'><a style='text-decoration:underline' href='http://www.suntopia.org/west_hollywood/ca/'><b>West Hollywood, CA</b></a></td></tr><tr>	</tr>
+</table><br>
+
+</div>
+<br>
+
+			<div id="info2" align="center">&copy; 2012 <a href="http://www.suntopia.org">Suntopia</a> | <a href="http://www.suntopia.org/privacy_policy.php" target="_blank">Privacy</a><br>Suntopia.org makes no warranty as to the fitness of the data on this site.  All of the agencies and programs listed are deemed accurate and reliable at time of publication.  However, prgrams may change and Suntopia.org makes no guarantee of service by the organizations listed.</div>
+
+		</div>
+
+	</div>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-qS9PTG40uY7P6"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-qS9PTG40uY7P6.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+
+</html>
+lw
+

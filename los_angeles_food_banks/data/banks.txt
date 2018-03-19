@@ -1,0 +1,1 @@
+{"id": null, "name": "Food Net-Florence Firestone Center", "address": "7807 S. Compton Avenue Los Angeles CA", "lat": null, "lng": null, "openHours": {"days": [2], "hours": [[["9", "00"], ["13", "00"]]], "weeks": [2]}}
